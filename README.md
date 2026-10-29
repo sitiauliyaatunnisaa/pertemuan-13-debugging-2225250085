@@ -1,7 +1,7 @@
 # Pertemuan 13 - Debugging dan Testing
-* **Nama:** Aurda
+* **Nama:** Siti Auliyaatunnisaa
 * **NIM:** 2225250085
-* **Kelas:** S1 Pendidikan Matematika
+* **Kelas:** 3A
 
 ## Kasus
 Program yang diuji adalah skrip pemrosesan data nilai mahasiswa yang sengaja dirancang memiliki beberapa bug (kesalahan logika). Program ini terdiri dari tiga fungsi utama, yaitu fungsi untuk menghitung rata-rata nilai, menentukan status kelulusan berdasarkan batas angka, dan mencari nilai tertinggi dari sekumpulan data list.
